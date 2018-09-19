@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvin", "Marvin\Marvin.csproj", "{9CD2215F-84E1-4849-ABD7-17F72CFACBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD2215F-84E1-4849-ABD7-17F72CFACBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD2215F-84E1-4849-ABD7-17F72CFACBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD2215F-84E1-4849-ABD7-17F72CFACBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD2215F-84E1-4849-ABD7-17F72CFACBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9232A0A4-1272-4C86-9226-8BD3176B84C2}
+	EndGlobalSection
+EndGlobal
