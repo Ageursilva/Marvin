@@ -9,3 +9,14 @@ C:\Users\Ageu\Desktop\Projeto 2018\Marvin V2\Marvin\Marvin\bin\Debug\Marvin.pdb
 C:\Users\Ageu\Desktop\Projeto 2018\Marvin V2\Marvin\Marvin\obj\Debug\Marvin.exe
 C:\Users\Ageu\Desktop\Projeto 2018\Marvin V2\Marvin\Marvin\obj\Debug\Marvin.pdb
 C:\Users\Ageu\Desktop\Projeto 2018\Marvin V2\Marvin\Marvin\obj\Debug\Marvin.Form2.resources
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\Marvin.exe.config
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\Marvin.exe
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\Marvin.pdb
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.csprojAssemblyReference.cache
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.Form1.resources
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.Form2.resources
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.Properties.Resources.resources
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.csproj.GenerateResource.cache
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.csproj.CoreCompileInputs.cache
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.exe
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.pdb

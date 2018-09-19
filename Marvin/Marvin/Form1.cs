@@ -40,7 +40,7 @@ namespace Marvin
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.microsoft.com");
+            System.Diagnostics.Process.Start("https://github.com/Ageursilva/Projeto-Uninove");
         }
     }
 }
