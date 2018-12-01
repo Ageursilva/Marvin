@@ -20,3 +20,9 @@ C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Ma
 C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.csproj.CoreCompileInputs.cache
 C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.exe
 C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.pdb
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.Form3.resources
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\DB_BEBIDAS.mdf
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\DB_BEBIDAS_log.ldf
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\UsuarioDB.mdf
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\bin\Debug\UsuarioDB_log.ldf
+C:\Users\Ageu\Desktop\Projeto Uninove\Projeto-Uninove\Marvin\Marvin\obj\Debug\Marvin.FrmCadastroClientes.resources

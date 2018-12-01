@@ -37,14 +37,14 @@
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(149, 238);
+            this.txtUsuario.Location = new System.Drawing.Point(149, 234);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(186, 20);
             this.txtUsuario.TabIndex = 0;
             // 
             // txtSenha
             // 
-            this.txtSenha.Location = new System.Drawing.Point(149, 272);
+            this.txtSenha.Location = new System.Drawing.Point(149, 270);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.PasswordChar = '•';
             this.txtSenha.Size = new System.Drawing.Size(186, 20);
@@ -52,18 +52,22 @@
             // 
             // Bacessar
             // 
+            this.Bacessar.BackColor = System.Drawing.SystemColors.ControlDark;
             this.Bacessar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.Bacessar.FlatAppearance.BorderSize = 0;
+            this.Bacessar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Bacessar.Image = ((System.Drawing.Image)(resources.GetObject("Bacessar.Image")));
             this.Bacessar.Location = new System.Drawing.Point(383, 306);
             this.Bacessar.Name = "Bacessar";
             this.Bacessar.Size = new System.Drawing.Size(75, 23);
             this.Bacessar.TabIndex = 2;
-            this.Bacessar.UseVisualStyleBackColor = true;
+            this.Bacessar.UseVisualStyleBackColor = false;
             this.Bacessar.Click += new System.EventHandler(this.Bacessar_Click);
             // 
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
+            this.linkLabel1.BackColor = System.Drawing.Color.Beige;
             this.linkLabel1.Location = new System.Drawing.Point(12, 319);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(34, 13);
